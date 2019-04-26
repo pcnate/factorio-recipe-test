@@ -1,0 +1,22 @@
+{
+  "name": "factorio-recipe-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "blueprints.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pcnate/factorio-recipe-test.git"
+  },
+  "author": "Nathan Baker <pcnate@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pcnate/factorio-recipe-test/issues"
+  },
+  "homepage": "https://github.com/pcnate/factorio-recipe-test#readme",
+  "dependencies": {
+    "factorio-blueprint-reader": "0.0.4"
+  }
+}
